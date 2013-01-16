@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
+    <url>
+        <loc>http://CoenNengerman.github.com/blog/2013/01/16/hello-world/</loc>
+        <lastmod>2013-01-16T10:54:15+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CoenNengerman.github.com/blog/archives/</loc>
+        <lastmod>2013-01-16T10:54:15+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CoenNengerman.github.com/</loc>
+        <lastmod>2013-01-16T10:54:15+01:00</lastmod>
+    </url>
+    <url>
+        <loc>http://CoenNengerman.github.com/robots.txt</loc>
+        <lastmod>2013-01-16T10:48:19+01:00</lastmod>
+    </url>
+</urlset>

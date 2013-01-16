@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://CoenNengerman.github.com/sitemap.xml 
