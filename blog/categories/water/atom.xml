@@ -4,7 +4,7 @@
   <title><![CDATA[Category: water | Coen Nengerman]]></title>
   <link href="http://CoenNengerman.github.com/blog/categories/water/atom.xml" rel="self"/>
   <link href="http://CoenNengerman.github.com/"/>
-  <updated>2013-01-16T11:33:26+01:00</updated>
+  <updated>2013-01-16T11:35:37+01:00</updated>
   <id>http://CoenNengerman.github.com/</id>
   <author>
     <name><![CDATA[Coen Nengerman]]></name>
@@ -18,7 +18,8 @@
     <link href="http://CoenNengerman.github.com/blog/2013/01/16/hello-world/"/>
     <updated>2013-01-16T10:51:00+01:00</updated>
     <id>http://CoenNengerman.github.com/blog/2013/01/16/hello-world</id>
-    <content type="html"><![CDATA[<p>Dit is de eerste blogpost van <a href="http://twitter.com/coennengerman">Coen Nengerman</a></p>
+    <content type="html"><![CDATA[<p>Dit is de eerste blogpost van <a href="http://twitter.com/coennengerman">Coen Nengerman</a>
+<img src="images/landgebruik.png" alt="Landgebruik" /></p>
 ]]></content>
   </entry>
   
