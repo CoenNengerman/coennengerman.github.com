@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Coen Nengerman]]></title>
-  <link href="http://CoenNengerman.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: water | Coen Nengerman]]></title>
+  <link href="http://CoenNengerman.github.com/blog/categories/water/atom.xml" rel="self"/>
   <link href="http://CoenNengerman.github.com/"/>
   <updated>2013-01-16T11:21:53+01:00</updated>
   <id>http://CoenNengerman.github.com/</id>
